@@ -1,0 +1,12 @@
+[
+  {
+    "package": "guix.install",
+    "oncran": true
+  },
+  {
+    "package": "genomation"
+  },
+  {
+    "package": "netSmooth"
+  }
+]
