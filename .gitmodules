@@ -8,13 +8,3 @@
 	url = https://github.com/bimsbbioinfo/guix.install
 	shallow = true
 	registered = true
-[submodule "genomation"]
-	path = genomation
-	url = https://github.com/bimsbbioinfo/genomation
-	shallow = true
-	registered = true
-[submodule "netSmooth"]
-	path = netSmooth
-	url = https://github.com/bimsbbioinfo/netsmooth
-	shallow = true
-	registered = true
