@@ -8,6 +8,11 @@
 	url = https://github.com/bimsbbioinfo/guix.install
 	shallow = true
 	registered = true
+[submodule "deconvR"]
+	path = deconvR
+	url = https://github.com/bimsbbioinfo/deconvr
+	shallow = true
+	registered = true
 [submodule "genomation"]
 	path = genomation
 	url = https://github.com/bimsbbioinfo/genomation
