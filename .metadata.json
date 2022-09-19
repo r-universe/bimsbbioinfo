@@ -8,5 +8,8 @@
   },
   {
     "package": "genomation"
+  },
+  {
+    "package": "netSmooth"
   }
 ]

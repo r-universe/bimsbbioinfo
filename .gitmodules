@@ -18,3 +18,8 @@
 	url = https://github.com/bimsbbioinfo/genomation
 	shallow = true
 	registered = true
+[submodule "netSmooth"]
+	path = netSmooth
+	url = https://github.com/bimsbbioinfo/netsmooth
+	shallow = true
+	registered = true
