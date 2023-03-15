@@ -1,13 +1,13 @@
 [
   {
-    "package": "guix.install",
-    "oncran": true
-  },
-  {
     "package": "deconvR"
   },
   {
     "package": "genomation"
+  },
+  {
+    "package": "guix.install",
+    "oncran": true
   },
   {
     "package": "netSmooth"
