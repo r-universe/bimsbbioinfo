@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "deconvR"]
-	path = deconvR
-	url = https://github.com/bimsbbioinfo/deconvr
-[submodule "genomation"]
-	path = genomation
-	url = https://github.com/bimsbbioinfo/genomation
 [submodule "guix.install"]
 	path = guix.install
 	url = https://github.com/bimsbbioinfo/guix.install
-[submodule "netSmooth"]
-	path = netSmooth
-	url = https://github.com/bimsbbioinfo/netsmooth
