@@ -5,3 +5,6 @@
 [submodule "guix.install"]
 	path = guix.install
 	url = https://github.com/bimsbbioinfo/guix.install
+[submodule "mergen"]
+	path = mergen
+	url = https://github.com/bimsbbioinfo/mergen
