@@ -1,0 +1,10 @@
+{
+  "id": 114304682,
+  "created_at": "2026-03-05T21:55:46.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["VoltRon", "ZarrArray", "ImageArray", "HDF5DataFrame", "ZarrDataFrame", "VoltRon_manuscript", "SimpleITKRInstaller", "VoltRonStore", "OMERarr"]
+}
