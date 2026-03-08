@@ -5,6 +5,9 @@
 [submodule "HDF5DataFrame"]
 	path = HDF5DataFrame
 	url = https://github.com/BIMSBbioinfo/HDF5DataFrame
+[submodule "RCDT"]
+	path = RCDT
+	url = https://github.com/BIMSBbioinfo/RCDT
 [submodule "VoltRon"]
 	path = VoltRon
 	url = https://github.com/BIMSBbioinfo/VoltRon
