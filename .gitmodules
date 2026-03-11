@@ -4,7 +4,8 @@
 	branch = HEAD
 [submodule "BPCells"]
 	path = BPCells
-	url = https://github.com/BIMSBbioinfo/BPCells/r
+	url = https://github.com/BIMSBbioinfo/BPCells
+	subdir = r
 [submodule "HDF5DataFrame"]
 	path = HDF5DataFrame
 	url = https://github.com/BIMSBbioinfo/HDF5DataFrame
