@@ -21,3 +21,6 @@
 [submodule "ZarrDataFrame"]
 	path = ZarrDataFrame
 	url = https://github.com/BIMSBbioinfo/ZarrDataFrame
+[submodule "rbcpd"]
+	path = rbcpd
+	url = https://github.com/BIMSBbioinfo/rbcpd
