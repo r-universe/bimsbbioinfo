@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/bimsbbioinfo/bimsbbioinfo.r-universe.dev
 	branch = HEAD
-[submodule "BPCells"]
-	path = BPCells
-	url = https://github.com/BIMSBbioinfo/BPCells
-	subdir = r
 [submodule "HDF5DataFrame"]
 	path = HDF5DataFrame
 	url = https://github.com/BIMSBbioinfo/HDF5DataFrame
